@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prefab-drake-219312",
+  "private_key_id": "7931afc11efffcf8da466ac127e11b44e7313188",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9LnYqT005TP6Q\nkzutfaY/NX7xwyZbK/NlClatbRXUbODNE01/n07+fwhwKN8tz6Hty7/Duhn5m8c6\nByVfJyNnlICSFT36rByAhq2UbeeWZDmyECZHLZodyiZms6TrDhdvWvIVF/2qV2Ax\nYiDFPSPilyQL0dhu3Cptz33ydA2jDJ3mntWaSMmiyX1/mKoQS+oTrOQiF17bI5Eq\nfCQ9pc+beG3lZx2kTLlKwK1tt+YhBAbVMyO/hjoit7VegUh/sV2AxGAZs8AEBkGV\nYuAn85v1e7Ii+RUrLU0bcHpFwLPfYcRLNFWfITMrEjy6HUmyycIwxvy6dlqzJ4tG\nHr84nn2vAgMBAAECggEAHMMvnAcqioe2PGzmKd5spDeR8VfmQP5Rpw8HVp67LuzO\n0N8abUjfTboqokLUi7aBvBG6OhvVTynsBFqJyAm/TEQ7t/oazj3Up4XSZjq/dxIN\n45CpATFhuR2+8OZnMIWX8oo1PBfFrVxTd66fpN1C03R/OnzRFynKGZ/uWipi2GMT\ngc+i53CIiEe692+f7vfsx/vmd/ubJ1afsvQ9pAxjNj4gaRuA/5juBp9IS1WiaIjA\nceJRzAQj0H9U6fXTwQor/gC8k1VVAVBTVmZu3Rt8wSR8vyMRZFBbZMhLHBGDc04D\nmHmkrlMfe8utM+z+Idgm057M6TwIUjw8KULtVO6DIQKBgQDwPKSVxnuFb0XtsnA4\n7BQSN/HKSU91vMR6jYpXx5NUG4VYjb0VCdgV7gOgQSmI8sf7ROadBfb/en56Qv1t\nNYbS5JM6Rp+WXWTxwFXj/e0ay35rEDQ61g2Hh5JvGnghMQypCxy3hTKZE8N91AE6\nqG0RVHkb2HCqKXU6BOKsrFrUewKBgQDJmDhoIw1K9pCHtDiX0bKOle67MttbOG3p\ndN2j9mE5JUWkavy1lpqEv5HQKgpCgekv+rKVxaL3HvHfTPrR931Y973GCoaJd6FL\njHMbHBdPnNqyyTC/bDPRxyhZXiN8QZBu11Z7rJb+1VnRt0r4xO8En7sb+YhFMBEc\nzb6gX8TXXQKBgFMeeEeF8+jX9hbmvSNEszEWgCbgNIjk9gn8/NegKp5YI0vfRoOH\n82arAkApK4jBj2WlkjDUBoCgTjBZCzwE4BAJm9L26nJo/+sRA+atTaMOsz+xzJBq\nzSWOR6D/RH8fbGT0fkwU3svN5b6cYox8B7iORJTYzypgy7l2RUM/IvIPAoGAA4c5\nfYEXi3dTQjzCPM37vQkcu4QBWNBdBBf6hRMb0n83f9ArihYPsEEWETmbIlzZsvBF\nTd++oWqWOx1Cyof1VqhHVv76Kc/BL+xOW2wbcFZDcZuZ0c/X/FTq/N1r65HOMFJu\nfg2gOueLAeOeWUpBEKinAq9UVjmoIwPq0S276TUCgYB1sLiWPz27unAYhJltBgQN\n2ud7X39ST5/xqmfsrbXFl91rWZLTv6bdBHsgmkI98Um0l5Kr0I8QfEOSByhluiJV\nmkW7/TRVt2oj3HdfmmFDlHTVb5p267b5xx71nms/nJZ3pZlSKxLcA7fOvN6tP1lm\nG6ICEVnbu4EG/i+1iip7yw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kunal-770@prefab-drake-219312.iam.gserviceaccount.com",
+  "client_id": "112492223800368268715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kunal-770%40prefab-drake-219312.iam.gserviceaccount.com"
+}
